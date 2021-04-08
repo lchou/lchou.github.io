@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Computer Modern Bright';
+	font-family: 'cmb';
 	src: url('cmunbmr.eot');
 	src: url('cmunbmr.eot?#iefix') format('embedded-opentype'),
 		 url('cmunbmr.woff') format('woff'),
@@ -10,7 +10,7 @@
 }
 
 @font-face {
-	font-family: 'Computer Modern Bright';
+	font-family: 'cmb';
 	src: url('cmunbbx.eot');
 	src: url('cmunbbx.eot?#iefix') format('embedded-opentype'),
 		 url('cmunbbx.woff') format('woff'),
@@ -21,7 +21,7 @@
 }
 
 @font-face {
-	font-family: 'Computer Modern Bright';
+	font-family: 'cmb';
 	src: url('cmunbmo.eot');
 	src: url('cmunbmo.eot?#iefix') format('embedded-opentype'),
 		 url('cmunbmo.woff') format('woff'),
@@ -32,7 +32,7 @@
 }
 
 @font-face {
-	font-family: 'Computer Modern Bright';
+	font-family: 'cmb';
 	src: url('cmunbxo.eot');
 	src: url('cmunbxo.eot?#iefix') format('embedded-opentype'),
 		 url('cmunbxo.woff') format('woff'),
