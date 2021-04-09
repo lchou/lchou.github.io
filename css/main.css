@@ -4,6 +4,7 @@ body {
     margin-right: auto;
 }
 
+/*
 .container > * {
     float:left;
     margin-right:25px;
@@ -12,6 +13,7 @@ body {
 .container {
     *zoom:1
 }
+*/
 
 .container:before,
 .container:after {
